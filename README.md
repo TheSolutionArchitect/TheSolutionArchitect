@@ -28,4 +28,6 @@ AI Leader with deep expertise in scaling enterprise AI through cloud infrastruct
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSolutionArchitect&layout=compact&langs_count=8&theme=react"/>
   </a>
 </div>
+![TheSolutionArchitect's Stats](https://github-readme-stats.vercel.app/api?username=TheSolutionArchitect&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![TheSolutionArchitect's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheSolutionArchitect&theme=vue-dark&hide_border=true)
+![TheSolutionArchitect's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSolutionArchitect&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
