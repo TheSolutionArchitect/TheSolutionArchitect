@@ -7,7 +7,7 @@ A results-driven IT professional with over a decade of experience in architectin
 AI Leader with deep expertise in scaling enterprise AI through cloud infrastructure, MLOps, and data strategy.
 
 
-## Professional Experience / Qualifications
+## Professional Experience & Qualifications
 - Manager, Cloud Transformation and Architecture in an MNC, Canada
 - Phd in Computer Science (in progress), active researcher in Healthcare, Canada
 - Master's in Data Science and Analytics, Canada
