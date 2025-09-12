@@ -26,6 +26,10 @@ AI Leader with deep expertise in scaling enterprise AI through cloud infrastruct
   <a href="https://github.com/TheSolutionArchitect">
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=TheSolutionArchitect&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSolutionArchitect&layout=compact&langs_count=8&theme=react"/>
+
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=TheSolutionArchitect&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSolutionArchitect&theme=vue-dark&hide_border=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSolutionArchitect&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </div>
 ![TheSolutionArchitect's Stats](https://github-readme-stats.vercel.app/api?username=TheSolutionArchitect&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
