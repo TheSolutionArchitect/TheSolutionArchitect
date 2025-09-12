@@ -1,20 +1,24 @@
-## Hi there 👋
+## 
+# Hi there 👋 , Som aka 'The Solution Architect' | [LinkedIn](https://www.linkedin.com/in/somspeaks/)
+Scaling Enterprise AI through Cloud Infra Engineering & Digital Transformation | Data & AI | Driving Innovation & Creating High Performance Teams.
 
-<!--
-**TheSolutionArchitect/TheSolutionArchitect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A results-driven IT professional with over a decade of experience in architecting and implementing complex enterprise solutions, specializing in Cloud Infrastructure Engineering, Data, and AI. 
 
-Here are some ideas to get you started:
+AI Leader with deep expertise in scaling enterprise AI through cloud infrastructure, MLOps, and data strategy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
+## Professional Experience / Qualifications
+- Manager, Cloud Transformation and Architecture in an MNC, Canada
+- Phd in Computer Science (in progress), active researcher in Healthcare, Canada
+- Master's in Data Science and Analytics, Canada
+- MBA in Operations Management, India
+- Bachelor’s degree in Computer Science and Engineering, India
+- AWS Certified Solutions Architect professional. AWS certified associate as AWS Developer, Architect, and SysOps Administrator.
+- Azure and Google Cloud Certified
+- Terraform Certified Associate
+- HashiCorp Vault Certified
+- HashiCorp Certified Implementation Partner
+- Certified Scrum Master (CSM), ITIL, Oracle Certified Professional (OCP).
 
 ### 📊 GitHub Stats
 
