@@ -8,12 +8,12 @@ AI Leader with deep expertise in scaling enterprise AI through cloud infrastruct
 
 
 ## Professional Experience & Qualifications
-- Manager, Cloud Transformation and Architecture in an MNC, Canada
-- Persuing PhD in Biomedical Imaging & Image Processing for Radiation Oncology, active researcher in the field of Biomedical imaging, Canada
-- Master's in Data Science and Analytics, Canada
-- MBA in Operations Management, India
+- Manager, **Cloud Transformation and Architecture** in an MNC, Canada
+- Persuing PhD in **Biomedical Imaging & Image Processing for Radiation Oncology**, active researcher in the field of Biomedical imaging, Canada
+- Master's in **Data Science and Analytics**, Canada
+- MBA in **Operations Management**, India
 - Bachelor’s degree in Computer Science and Engineering, India
-- AWS Certified Solutions Architect professional. AWS certified associate as AWS Developer, Architect, and SysOps Administrator.
+- AWS Certified **Solutions Architect professional**. AWS certified associate as AWS Developer, Architect, and SysOps Administrator.
 - Azure and Google Cloud Certified
 - Terraform Certified Associate
 - HashiCorp Vault Certified
