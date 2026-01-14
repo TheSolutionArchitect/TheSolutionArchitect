@@ -9,7 +9,7 @@ AI Leader with deep expertise in scaling enterprise AI through cloud infrastruct
 
 ## Professional Experience & Qualifications
 - Manager, **Cloud Transformation and Architecture** in an MNC, Canada
-- Persuing PhD in **Biomedical Imaging & Image Processing for Radiation Oncology**, active researcher in the field of Biomedical imaging, Canada
+- PhD in **Biomedical Imaging & Image Processing for Radiation Oncology**, active researcher in the field of Biomedical imaging, Canada. [click here](https://orcid.org/0009-0000-7960-7080) for research profile
 - Master's in **Data Science and Analytics**, Canada
 - MBA in **Operations Management**, India
 - Bachelor’s degree in Computer Science and Engineering, India
