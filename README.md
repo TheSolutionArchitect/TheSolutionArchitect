@@ -1,6 +1,6 @@
 ## 
 # Hi there 👋 , Som aka 'The Solution Architect' | [LinkedIn](https://www.linkedin.com/in/somspeaks/)
-Scaling Enterprise AI through Cloud Infra Engineering & Digital Transformation | Data & AI | Driving Innovation & Creating High Performance Teams.
+Scaling Enterprise AI through Cloud Infra Engineering & Digital Transformation | Data & AI | Driving Innovation & Creating High-Performance Teams.
 
 A results-driven IT professional with over a decade of experience in architecting and implementing complex enterprise solutions, specializing in Cloud Infrastructure Engineering, Data, and AI. 
 
@@ -9,7 +9,7 @@ AI Leader with deep expertise in scaling enterprise AI through cloud infrastruct
 
 ## Professional Experience & Qualifications
 - Manager, **Cloud Transformation and Architecture** in an MNC, Canada
-- PhD in **Biomedical Imaging & Image Processing for Radiation Oncology**, active researcher in the field of Biomedical imaging, Canada. 
+- PhD in Computer Science, active researcher in the fields **Digital Twin**, **Edge Intelligence**, **Distributed Computing**, **Biomedical Imaging & Image Processing for Radiation Oncology**, Canada. 
 - Master's in **Data Science and Analytics**, Canada
 - MBA in **Operations Management**, India
 - Bachelor’s degree in Computer Science and Engineering, India
